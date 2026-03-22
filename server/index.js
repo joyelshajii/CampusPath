@@ -38,6 +38,6 @@ db.ready.then(() => {
         console.log('  HOD:         hod.cse / hod123');
         console.log('  Coordinator: coord.cse1 / coord123');
         console.log('  Faculty:     alice.john / fac123');
-        console.log('  Student:     s001 / stu1\n');
+        console.log('  Student:     s009 / stu9\n');
     });
 });
